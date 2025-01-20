@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Firgiawan Faira! call me Angkasawan 🚀
+# 👋 Haloo the best person in the world, I'm Firgiawan Faira! call me Angkasawan 🚀
 
 🎯 Data Analyst | 📊 Big Data Analyst | 🔍 Network Forensic Analyst  
 🔗 Exploring the intersection of **data insights**, **big data solutions**, and **cybersecurity**.  
@@ -13,13 +13,14 @@
   - Implementing big data frameworks.
   - Investigating cyber incidents using forensic tools and techniques.
 - 🌟 Skilled in combining technical expertise with analytical problem-solving to deliver results.
+- 🥰 I really enjoy researching and learning.
 
 ---
 
 ## 🔧 Skills
 ### **Technical Skills**
-- **Data Analysis**: Python, SQL, Excel, Tableau
-- **Network Forensics**: Wireshark, Linux
+- **Data Analysis**: Python, SQL, Excel
+- **Network Forensics**: Wireshark, nmap
 - **Programming**: Python, SQL
 - **Machine Learning**: Scikit-learn, TensorFlow, Keras
 
@@ -29,6 +30,7 @@
 ---
 
 ## 📂 Portfolio
+- for the first research title is *Optimization of Vase Production at the Bandung Ceramic Center Using Integer Linear Programming*
 - research in proceeding https://spinter.stikom-bali.ac.id/index.php/spinter/article/view/478
 - Multilingual Sentiment Analysis of Student Reviews for Improving Lecturer Quality in the Digital Business Department at XYZ University
 
