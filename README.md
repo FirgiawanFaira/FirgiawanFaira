@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi there, I'm Firgiawan Faira! call me Angkasawan 🚀
 
-<!--
-**FirgiawanFaira/FirgiawanFaira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Analyst | 📊 Big Data Analyst | 🔍 Network Forensic Analyst  
+🔗 Exploring the intersection of **data insights**, **big data solutions**, and **cybersecurity**.  
+🌟 Passionate about uncovering patterns, solving complex problems, and driving impactful decisions through data.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 **Background**: Bachelor’s degree in Industrial Engineering and Master’s degree in information systems.
+- 💼 **Experience**: Over 1 year of experience in:
+  - Conducting advanced data analysis to drive strategic decision-making.
+  - Implementing big data frameworks.
+  - Investigating cyber incidents using forensic tools and techniques.
+- 🌟 Skilled in combining technical expertise with analytical problem-solving to deliver results.
+
+---
+
+## 🔧 Skills
+### **Technical Skills**
+- **Data Analysis**: Python, SQL, Excel, Tableau
+- **Network Forensics**: Wireshark, Linux
+- **Programming**: Python, SQL
+- **Machine Learning**: Scikit-learn, TensorFlow, Keras
+
+### **Certifications**
+- 📜 Network Forensic Examiner (e.g., Cyber Security Fundamental)
+
+---
+
+## 📂 Portfolio
+- research in proceeding https://spinter.stikom-bali.ac.id/index.php/spinter/article/view/478
+- Multilingual Sentiment Analysis of Student Reviews for Improving Lecturer Quality in the Digital Business Department at XYZ University
+
+
+---
+
+## 📫 Let's Connect!
+- 📝 [LinkedIn] www.linkedin.com/in/firgiawanfaira
+- 📧 Email: fairafirgiawan@gmail.com
+- 🐦 [Instagram] https://www.instagram.com/frgiawanf/
+
+---
+
+💡 “Data is the new oil, but analyzing it is the real gold mine!”  
+🚀 Let's unlock insights, build robust systems, and secure the future together!
