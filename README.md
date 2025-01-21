@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 **Background**: Bachelor’s degree in Industrial Engineering and Master’s degree in information systems.
+- 🎓 **Background**: Bachelor’s degree in Industrial Engineering and Student Master’s in information systems.
 - 💼 **Experience**: Over 1 year of experience in:
   - Conducting advanced data analysis to drive strategic decision-making.
   - Implementing big data frameworks.
