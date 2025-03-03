@@ -1,4 +1,4 @@
-# 👋 Haloo the best person in the world, I'm Firgiawan Faira! call me Angkasawan 🚀
+# 👋 Haloo I'm Firgiawan Faira.
 
 🎯 Data Analyst | 📊 Big Data Analyst | 🔍 Network Forensic Analyst  
 🔗 Exploring the intersection of **data insights**, **big data solutions**, and **cybersecurity**.  
