@@ -45,7 +45,7 @@
 
 ## 📫 Let's Connect!
 - 📝 [LinkedIn] www.linkedin.com/in/firgiawanfaira
-- 📧 Email: fairafirgiawan@gmail.com
+- 📧 Email: firgiawan@utb-univ.ac.id
 - 🐦 [Instagram] https://www.instagram.com/frgiawanf/
 
 ---
